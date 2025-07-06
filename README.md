@@ -1,6 +1,6 @@
 Lead Scoring ML Project
 
-A machine learning project to predict and rank potential customer leads based on their likelihood to convert. This project is designed to demonstrate key skills in EDA, model building, interpretability, automation, and dashboarding using free cloud platforms.
+A machine learning project to predict and rank potential customer leads based on their likelihood to convert. This project is designed to demonstrate key skills in EDA, model building, interpretability, automation, and dashboarding using public cloud platforms.
 
 ---
 
@@ -39,7 +39,7 @@ lead-scoring-ml/
 -  SHAP explainability for model transparency
 -  Batch prediction notebook for scoring new leads
 -  Retraining pipeline for future model updates
--  Deployment-ready (Streamlit Cloud + GitHub Actions optional)
+-  Deployment-ready (Streamlit Cloud + GitHub)
 
 ---
 
@@ -120,4 +120,3 @@ lead-scoring-ml/
 - Auto retraining via GitHub Actions
 - Flask or FastAPI backend for API deployment
 
-# leadScoringProject
